@@ -19,5 +19,6 @@ To seed the database, run the following command in your terminal:
 
 ## This command will populate the database with the seed data.
 ```
-bash npm run seed
+bash
+npm run seed
 ```
