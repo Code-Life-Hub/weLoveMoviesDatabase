@@ -18,5 +18,5 @@ The seed data is used to populate the WeLoveMovies database when it is first cre
 To seed the database, run the following command in your terminal:
 
 ## This command will populate the database with the seed data.
-### bash
-### npm run seed
+```bash npm run seed
+```
