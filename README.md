@@ -22,6 +22,6 @@ To seed the database, run the following command in your terminal:
 bash
 npm run seed
 ```
-## Completed Demo of Full-Stack Movies Database
+## Demo of completed Full-Stack Movies Database
 
 Check it out for yourself here --> [Live Demo](https://davidswelovemoviesdatabase.onrender.com/)
